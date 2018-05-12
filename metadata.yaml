@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '35343'
     url: http://www.gutenberg.org/2009/agents/35343
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33663#The-Origin-and-Development-of-the-Quantum-Theory
 gutenberg_issued: '2010-09-07'
 gutenberg_type: Text
 identifiers:
