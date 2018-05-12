@@ -1,0 +1,42 @@
+_repo: The-Origin-and-Development-of-the-Quantum-Theory_33663
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Silberstein, Ludwik
+    alias: Silberstein, L. (Ludwik)
+    birthdate: 1872
+    deathdate: 1948
+    gutenberg_agent_id: '36527'
+    url: http://www.gutenberg.org/2009/agents/36527
+  - agent_name: Clarke, Hans Thacher
+    alias: Clarke, H. T. (Hans Thacher)
+    birthdate: 1887
+    deathdate: 1972
+    gutenberg_agent_id: '36526'
+    url: http://www.gutenberg.org/2009/agents/36526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Planck, Max
+    alias: Planck, Max Karl Ernst Ludwig
+    birthdate: 1858
+    deathdate: 1947
+    gutenberg_agent_id: '35343'
+    url: http://www.gutenberg.org/2009/agents/35343
+description: ''
+gutenberg_issued: '2010-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33663'
+  lccn: '22016921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Quantum theory'
+title: The Origin and Development of the Quantum Theory
+url: http://www.gutenberg.org/ebooks/33663
